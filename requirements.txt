@@ -1,0 +1,7 @@
+ipykernel<7
+ipython<8
+ipywidgets<9
+jupyter-contrib-nbextensions<2
+jupyter-nbextensions-configurator<2
+nbconvert<8
+notebook<8
