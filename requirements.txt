@@ -3,5 +3,7 @@ ipython<8
 ipywidgets<9
 jupyter-contrib-nbextensions<2
 jupyter-nbextensions-configurator<2
+mysql-connector-python<9
 nbconvert<8
 notebook<8
+python-dotenv<2
