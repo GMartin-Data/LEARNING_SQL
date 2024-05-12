@@ -7,3 +7,4 @@ mysql-connector-python<9
 nbconvert<8
 notebook<8
 python-dotenv<2
+sqlalchemy<3
