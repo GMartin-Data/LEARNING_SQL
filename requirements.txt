@@ -1,3 +1,4 @@
+Faker<26
 ipykernel<7
 ipython<8
 ipywidgets<9
